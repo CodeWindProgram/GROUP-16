@@ -1,0 +1,12 @@
+models.py -->
+serializers.py -->
+settings.py --> project
+
+student :
+login
+
+teacher:
+login
+
+admin:
+user creation for teacher and student
