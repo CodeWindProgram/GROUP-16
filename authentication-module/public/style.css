@@ -230,7 +230,6 @@
     border-radius: 30px;
     box-shadow: 2px #000;
     position: sticky;
-    margin-right: 190px;
     border-color: black;
 }
 #btn2{
@@ -301,8 +300,18 @@
     opacity: 75%;
 
 }
-
-.profileui table h1
+.profileui
 {
-    background: #fff;
+    background-color:#fff;
+    margin-left:200px;
+    top: 100px;
+    height:760px;
+    position:absolute;
+    width: 1030px;
+    border-radius:10px;
+    opacity: 75%;
+}
+.profileui:hover
+{
+    opacity:100%;
 }

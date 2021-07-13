@@ -99,7 +99,7 @@ export default function Student(){
         </ul>
         <Switch>
           <Route exact path={path}>
-            <h1>swf</h1>
+            <Studentprofile />
           </Route>
           <Route path={`${path}/:topicId`}>
             <Studentprofile />
@@ -114,13 +114,7 @@ function Studentprofile(){
     <div>
       <div className="profileui">
         <h3>{topicId}</h3>
-        <table
-          cellPadding="10"
-          width="80%"
-          bgcolor="LightGrey"
-          align="center"
-          cellSpacing="4"
-        >
+        <table cellPadding="10" width="100%" align="center" cellSpacing="25">
           <thead>
             <tr>
               <td colSpan="2">
@@ -136,9 +130,7 @@ function Studentprofile(){
           </thead>
           <tbody>
             <tr>
-              <td>
-                <b>Name:</b>
-              </td>
+              <td>Name:</td>
               <td>Sudhir Chandra Gill</td>
             </tr>
             <tr>
@@ -192,14 +184,6 @@ function Studentprofile(){
             <tr>
               <td>Roll No:</td>
               <td>45</td>
-            </tr>
-            <tr>
-              <td>
-                <input type="reset" />
-              </td>
-              <td colSpan="2">
-                <input type="submit" value="Submit Form" />
-              </td>
             </tr>
           </tbody>
         </table>
