@@ -7,6 +7,7 @@
 Github Username :-shravanshetty2001):-
     * Leaded the FrontEnd Team  
     * Created the Login Pages along with Shubham Lohar
+    * Creted the status report which we have to mail to mentor 
     * Copied HTML CSS codes from Team members and positioned them as required in ReactJS
     * Complete ReactJS Work
     
@@ -29,7 +30,7 @@ Github Username :- shubham050900):-
 * Rishikesh Patil (Email ID :- rishikeshpatil@ternaengg.ac.in //
 Github Username :- Rishikesh1820):-
    * Created Navigational Components along with Neha in HTML.
-     
+   * Before implementation designed the UI for the login page
  *  Pranay Palav (Email ID :- pranaypalav@ternaengg.ac.in //
 Github Username :- PSP08):-
      * Created the Forgot Password Page along with Neha.
@@ -43,7 +44,7 @@ Github Username :- PSP08):-
   * 
   
 * Chirag Patil ( Email ID :- chiragpatil9480@gmail.com // Github Username :-chiragpatil99):- 
-  * Before implementation designed the UI for the login page
+  * Planned the Required Database before Implementation
   * Created the Student database using Django & Postgres along with Shubham mahadik
   * Created repository for the group and Created the Readme.md
 
