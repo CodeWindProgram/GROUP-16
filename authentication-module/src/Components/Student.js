@@ -41,7 +41,7 @@ export default function Student(){
             <h1>Student Performance Matrix</h1>
           </div>
           <div id="head-2">
-            <h2>Profile</h2>
+            <button>Log out</button>
           </div>
         </div>
         <ul className="menu-2">
@@ -132,6 +132,10 @@ function Studentprofile(){
             <tr>
               <td>Name:</td>
               <td>Sudhir Chandra Gill</td>
+            </tr>
+            <tr>
+              <td>Student Id No:</td>
+              <td>13434</td>
             </tr>
             <tr>
               <td>Postal Address:</td>

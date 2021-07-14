@@ -60,7 +60,7 @@ export const Login = () => {
             </div>  
           </form>
           <div id="forgot-password">
-            <Link to="#">Forgot Password</Link>
+            <Link to="/forgotpassword">Forgot Password</Link>
             <Link to="/admin">Admin Sign-In</Link>
           </div>
         </div>

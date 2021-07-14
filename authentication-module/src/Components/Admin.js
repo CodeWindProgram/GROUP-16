@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './icon/login-icon.svg';
-import {useHistory} from "react-router-dom";
+import {useHistory,Link} from "react-router-dom";
 export const Admin = () => {
     const history = useHistory();
  
@@ -11,23 +11,38 @@ export const Admin = () => {
 
   return (
     <>
-    <div class="hero">
-      <div class="form-box">
-            <div id="admin">
-                <h1>ADMIN SIGN-IN</h1>
-            </div>
+      <div class="hero">
+        <div class="form-box">
+          <div id="admin">
+            <h1>ADMIN SIGN-IN</h1>
+          </div>
 
           <div id="icon-1">
-            <img src={logo} alt="logo" height="100px" width="100px"/>
+            <img src={logo} alt="logo" height="100px" width="100px" />
           </div>
           <form id="login" class="input-group" onSubmit={submit}>
-            <input type="email" class="input-field" placeholder="User ID" required/>
-            <input type="password" class="input-field" placeholder="Password" required/>
-            <button type="submit" class="submit-btn">Login</button>
+            <input
+              type="email"
+              class="input-field"
+              placeholder="User ID"
+              required
+            />
+            <input
+              type="password"
+              class="input-field"
+              placeholder="Password"
+              required
+            />
+            <button type="submit" class="submit-btn">
+              Login
+            </button>
           </form>
+          <div id="forgot-password">
+            <Link to="/forgotpassword">Forgot Password</Link>
+            <Link to="/">Back to main Login</Link>
+          </div>
         </div>
-    </div>
+      </div>
     </>
-    
-  )
+  );
 }
