@@ -28,7 +28,7 @@ Github Username :- shubham050900):-
 
 * Rishikesh Patil (Email ID :- rishikeshpatil@ternaengg.ac.in //
 Github Username :- Rishikesh1820):-
-   * Created Navigational Components created by me along with Neha in HTML.
+   * Created Navigational Components along with Neha in HTML.
      
  *  Pranay Palav (Email ID :- pranaypalav@ternaengg.ac.in //
 Github Username :- PSP08):-
