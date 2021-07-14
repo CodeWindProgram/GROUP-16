@@ -38,7 +38,7 @@ Github Username :- PSP08):-
 #### BACKEND MEMBERS AND THEIR WORK
 * Pranil Patil ( Email ID :- pranilp1720@gmail.com //  Github Username :-Pranil17):-
   * Leaded the backend Team
-  * Created the Teacher & Adimn database using Django & Postgres along with Rushabh Dhoke
+  * Created the Teacher & Admin database using Django & Postgres along with Rushabh Dhoke
   * Added the Aditional required Database column for the Student and Parent
   * 
   
@@ -61,6 +61,6 @@ Github Username :- PSP08):-
     
 
 * Rushabh Dhoke( Email ID :- rushabhdhoke1@gmail.com // Github Username :-rushabhdhoke):-   
-   * Created the Teacher & Adimn database using Django & Postgres along with Pranil Patil
+   * Created the Teacher & Admin database using Django & Postgres along with Pranil Patil
       
    
