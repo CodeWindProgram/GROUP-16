@@ -41,7 +41,7 @@ Github Username :- PSP08):-
   * Leaded the backend Team
   * Created the Teacher & Admin database using Django & Postgres along with Rushabh Dhoke
   * Added the Aditional required Database column for the Student and Parent
-  * 
+  
   
 * Chirag Patil ( Email ID :- chiragpatil9480@gmail.com // Github Username :-chiragpatil99):- 
   * Planned the Required Database before Implementation
