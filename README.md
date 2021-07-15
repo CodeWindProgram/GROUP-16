@@ -45,7 +45,7 @@ Github Username :- PSP08):-
   
 * Chirag Patil ( Email ID :- chiragpatil9480@gmail.com // Github Username :-chiragpatil99):- 
   * Planned the Required Database before Implementation
-  * Created the Student database and authrntication system using Django & Postgres along with Shubham mahadik
+  * Created the Student database and authentication system using Django & Postgres along with Shubham mahadik
   * Created repository for the group and Created the Readme.md
 
 
